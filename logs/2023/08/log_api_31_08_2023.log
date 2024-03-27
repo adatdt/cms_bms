@@ -1,0 +1,10 @@
+230831211804|admin|http://localhost/bms/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|::1
+
+230831211815|admin|http://localhost/bms/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|::1
+
+230831211826|satu|http://localhost/bms/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|::1
+
+230831211855|superadmin|http://localhost/bms/login/login|login|false|{"code":101,"header":"Error!","message":"User can't found","theme":"alert-styled-left bg-danger"}|::1
+
+230831211905|1|http://localhost/bms/login/login|login|{"id_seq":"9","user_group_id":"1","username":"1","password":"$2a$12$MtczIF7sAoy0ssuNhryoOe6BCS7wGsjPcSNXtdtHl3NjeHDTzPOQu","email":"admin@email.com","status":"1","group_name":"SUPER ADMIN","first_name":"Administrator","last_name":"admin"}|{"code":0,"message":"Success","data":"http:\/\/localhost\/bms\/dashboard"}|::1
+

@@ -1,0 +1,43 @@
+/* 
+    Document   : nutech-ap2
+    Created on : Dec 13, 2018, 3:57:14 PM
+    Author     : Andedi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.navbar-ap2 {
+    background-image: url("../images/bg2.png")!important;
+}
+
+.navbar-brand > img {
+    margin-top: -10px;
+    height: 40px;
+}
+
+/*@media (min-width: 769px)*/
+.sidebar-ap2 {
+    border-bottom: 0;
+    border-right: 1px solid #ddd;
+}
+.sidebar-ap2 {
+    background-image: linear-gradient(to left, #0277BD , #039BE5);
+    color: #333333;
+    border-bottom: 1px solid #ddd;
+}
+
+.dropdown-toggle {
+  color: black;
+}
+
+.sidebar-main-toggle {
+  color: white;
+}
+
+.datagrid-cell, .datagrid-cell-group {
+    padding: 10px 4px!important;
+}
+
+.dropdown-toggle {
+  color: white;
+}
